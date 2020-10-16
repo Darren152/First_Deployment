@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "calc-demo"
+    }
+  },
+  "defaultProject": "calc-demo",
+  "cli": {
+    "analytics": false
+  }
 }
